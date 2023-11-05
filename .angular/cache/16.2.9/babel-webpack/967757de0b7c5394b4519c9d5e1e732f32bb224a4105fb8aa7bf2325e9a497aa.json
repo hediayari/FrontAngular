@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Stock {}","map":{"version":3,"names":["Stock"],"sources":["D:\\frontdevops\\src\\app\\shared\\Model\\Stock.ts"],"sourcesContent":["export class Stock {\n    idStock:any;\n    libelleStock : any;\n    qte : any;\n    qteMin : any;\n\n}\n"],"mappings":"AAAA,OAAM,MAAOA,KAAK"},"metadata":{},"sourceType":"module","externalDependencies":[]}

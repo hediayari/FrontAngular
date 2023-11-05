@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Operateur {}","map":{"version":3,"names":["Operateur"],"sources":["D:\\frontdevops\\src\\app\\shared\\Model\\Operateur.ts"],"sourcesContent":["export class Operateur {\n    idOperateur:any;\n\t  nom:any;\n\t  prenom:any;\n\t  password:any;\n}\n"],"mappings":"AAAA,OAAM,MAAOA,SAAS"},"metadata":{},"sourceType":"module","externalDependencies":[]}
